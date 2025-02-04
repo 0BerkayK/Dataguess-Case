@@ -12,3 +12,7 @@ Make sure you have the following dependencies installed before running the proje
 pip install -r requirements.txt
 
 pip install numpy pandas yfinance xgboost scikit-learn ta matplotlib
+
+
+git clone https://github.com/yourusername/your-repo-name.git
+cd your-repo-name
