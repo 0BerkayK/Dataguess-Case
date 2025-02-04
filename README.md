@@ -14,5 +14,10 @@ pip install -r requirements.txt
 pip install numpy pandas yfinance xgboost scikit-learn ta matplotlib
 
 
+🚀 Running the Project
+1️⃣ Clone the Repository
+bash
+Kopyala
+Düzenle
 git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
