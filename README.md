@@ -8,9 +8,9 @@ This project predicts Tesla stock's closing price using machine learning techniq
 
 Before running the project, install the required dependencies:
 
-
+```bash
 pip install -r requirements.txt
-
+```
 Or manually install:
 
 pip install numpy pandas yfinance xgboost scikit-learn ta matplotlib
