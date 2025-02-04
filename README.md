@@ -13,8 +13,9 @@ pip install -r requirements.txt
 ```
 Or manually install:
 
+```bash
 pip install numpy pandas yfinance xgboost scikit-learn ta matplotlib
-
+```
 
 
 
