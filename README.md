@@ -22,9 +22,11 @@ pip install numpy pandas yfinance xgboost scikit-learn ta matplotlib
 🚀 Running the Project
 
 1️⃣ Clone the Repository
-
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
-
+```bash
+git clone https://github.com/0BerkayK/Dataguess-Case
+cd Dataguess-Case
+```
+```bash
 2️⃣ Run the Main Script
 python main.py
+```
