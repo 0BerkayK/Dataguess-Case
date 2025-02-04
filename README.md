@@ -30,3 +30,11 @@ cd Dataguess-Case
 2️⃣ Run the Main Script
 python main.py
 ```
+
+📊 Model Performance
+Metric	Value
+RMSE (Root Mean Squared Error)	9.29
+MAPE (Mean Absolute Percentage Error)	3.37%
+R² (Coefficient of Determination)	0.9876
+🚀 The model accurately predicts stock prices with minimal error.
+Future improvements can include feature engineering and hyperparameter tuning.
